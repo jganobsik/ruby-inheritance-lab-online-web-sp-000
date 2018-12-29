@@ -5,6 +5,4 @@ class User
   @last_name = last 
 end
   
-  
-  
 end
