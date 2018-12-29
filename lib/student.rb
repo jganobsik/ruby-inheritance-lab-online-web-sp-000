@@ -7,7 +7,8 @@ def initialize
   @knowledge = []
 end 
 
-def learn 
-  
+def learn(knowledge)
+  @knowledge < knowledge
+  @knowledge
 end
 end
